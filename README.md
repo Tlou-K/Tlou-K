@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tlou Kgare</h1>
+<h1 align="center">Hi 👋, I'm Tlou</h1>
 <h3 align="center">I'm a Data Analyst Intern exploring the vast realm of data. I'm actively enhancing my skills through hands-on experience with technologies like Python, R etc. My passion goes beyond just analysis; I aspire to predict future outcomes, leading me to delve into machine learning. Additionally, I'm intrigued by understanding how systems function, and I'm eager to explore the field of data engineering.</h3>
 
 - 📫 How to reach me **tloukgare@yahoo.com**
