@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tlou</h1>
-<h3 align="center">I'm a Data Analyst Intern exploring the vast realm of data. I'm actively enhancing my skills through hands-on experience with technologies like Python, R etc. My passion goes beyond just analysis; I aspire to predict future outcomes, leading me to delve into machine learning. Additionally, I'm intrigued by understanding how systems function, and I'm eager to explore the field of data engineering.</h3>
+<h3 align="center">🚀 Data Analyst Intern with a fervent passion for leveraging technology to extract valuable insights from data. 📊 Committed to continuous learning and growth within the dynamic field of data analytics. Currently expanding proficiency in tools such as Python, SQL, and Excel, with a focus on statistical analysis and data visualization. 📈 Experienced in handling diverse datasets and ensuring data quality and accuracy. 💻 Eager to contribute analytical skills and a keen eye for patterns to extract meaningful conclusions from complex data sets. 📊 Detail-oriented and adept at presenting findings in a clear and understandable manner. Excited to be part of impactful projects that contribute to data-driven decision-making. 📊
+
+Skills:
+
+Data Analysis
+Python
+SQL
+Excel
+Statistical Analysis
+Data Visualization
+Data Quality Assurance
+Detail-oriented
+Clear Communication
+Problem-solving
+Team Collaboration</h3>
 
 - 📫 How to reach me **tloukgare@yahoo.com**
 
